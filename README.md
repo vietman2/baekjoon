@@ -13,5 +13,5 @@ https://www.acmicpc.net/step
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
 ## Profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vietman2)](https://solved.ac/profile/vietman2/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vietman2)](https://solved.ac/vietman2/)
 
