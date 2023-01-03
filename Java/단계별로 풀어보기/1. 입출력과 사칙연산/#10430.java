@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Remainder {
+public class Main {
     static int first(int a, int b, int c) {
         return (a+b)%c;
     }

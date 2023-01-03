@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dice {
+public class Main {
     static int max(int a, int b, int c) {
         int max = a;
 

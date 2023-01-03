@@ -2,7 +2,7 @@ import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Average2 {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

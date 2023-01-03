@@ -1,6 +1,6 @@
 import java.lang.String;
 
-public class Cat {
+public class Main {
     public static void main(String[] args) {
         String line1 = "\\    /\\";
         String line2 = " )  ( ')";

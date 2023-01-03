@@ -1,4 +1,4 @@
-public class SelfNumber {
+public class Main {
     static int d(int n) {
         int number = n;
 

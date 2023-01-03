@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Multiplication2 {
+public class Main {
 
     static int line3(int a, int b) {
         int one = b % 10;

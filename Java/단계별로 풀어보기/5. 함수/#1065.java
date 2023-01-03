@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sequence {
+public class Main {
     static boolean Hansu(int n) {
         if(n == 1000) {
             return false;

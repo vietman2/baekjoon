@@ -1,7 +1,7 @@
 import java.lang.String;
 import java.util.Scanner;
 
-public class InOut {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
