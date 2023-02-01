@@ -1,5 +1,4 @@
 Module Main
-
     Sub Main()
         Console.WriteLine("      ===================")
         Console.WriteLine("          ____||___")
@@ -9,5 +8,4 @@ Module Main
         Console.WriteLine("            ||  ||")
         Console.WriteLine("         \-----------/")
     End Sub
-
 End Module
