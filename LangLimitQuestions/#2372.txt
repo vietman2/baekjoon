@@ -8,4 +8,5 @@ procedure Hello is begin
     Ada.Text_IO.Put_Line("Cows           40");
     Ada.Text_IO.Put_Line("Goats          22");
     Ada.Text_IO.Put_Line("Steers          2");
+    
 end Hello;
